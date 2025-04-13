@@ -1,0 +1,26 @@
+# 🌐 DEDICANDOS
+
+Este projeto tem como objetivo o desenvolvimento de uma **plataforma educacional online** que auxilie **professores e alunos** na organização de conteúdos, realização de atividades e comunicação no ambiente escolar. A proposta ainda integra **recursos de Inteligência Artificial** para tornar o processo de ensino-aprendizagem mais personalizado e eficiente.
+
+## 📌 Objetivos
+
+### 🎯 Objetivo Geral
+Desenvolver uma plataforma educacional que melhore a experiência de professores e alunos utilizando ferramentas tecnológicas e recursos de IA.
+
+### ✅ Objetivos Específicos
+- Identificar dificuldades no uso de tecnologias educacionais nas escolas.
+- Criar um sistema prático, acessível e funcional.
+- Implementar sugestões automáticas de conteúdo, análise de desempenho e gamificação com IA.
+- Realizar testes com usuários reais.
+- Analisar resultados com base em feedbacks.
+
+## 💡 Justificativa
+Com o avanço da tecnologia, é essencial integrá-la de forma eficiente à educação. Este projeto nasce da percepção de que muitas escolas ainda enfrentam barreiras nesse processo. A Inteligência Artificial é utilizada como suporte ao processo pedagógico, sem substituir o professor, mas otimizando tarefas e personalizando o aprendizado.
+
+## 🛠 Tecnologias Utilizadas
+- **HTML5** e **CSS3**
+- Sem frameworks (versão inicial do protótipo)
+- Pode ser estendido com:
+  - JavaScript (para funcionalidades interativas)
+  - Node.js ou Firebase (para backend e banco de dados)
+  - IA com OpenAI API, TensorFlow ou outras soluções
